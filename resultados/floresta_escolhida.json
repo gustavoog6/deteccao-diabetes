@@ -1,0 +1,15 @@
+{
+  "variante": "bagging",
+  "configuracao": [
+    "Quatro medidas",
+    "mediana",
+    2,
+    6,
+    "todos",
+    100,
+    "folha",
+    0.5
+  ],
+  "f1_selecao": 0.9029531600675486,
+  "criterio": "F1 macro médio nas 15 partes da seleção"
+}

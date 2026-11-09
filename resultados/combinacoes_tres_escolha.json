@@ -1,0 +1,56 @@
+{
+  "regra": {
+    "familia": "media",
+    "ativos": [
+      0,
+      1,
+      2
+    ],
+    "pesos": [
+      0.25,
+      0.425,
+      0.325
+    ],
+    "limite": 0.455
+  },
+  "indice_global": 30973,
+  "melhor_dupla": {
+    "familia": "media",
+    "ativos": [
+      0,
+      1
+    ],
+    "pesos": [
+      0.5,
+      0.5,
+      0.0
+    ],
+    "limite": 0.45
+  },
+  "melhor_trio": {
+    "familia": "media",
+    "ativos": [
+      0,
+      1,
+      2
+    ],
+    "pesos": [
+      0.25,
+      0.425,
+      0.325
+    ],
+    "limite": 0.455
+  },
+  "f1_selecao": 0.913729104591668,
+  "sha_base": "bc1a686d83c06e2d7667a6089e82b54b4bff2ca6467b81155f1246ac4719a032",
+  "versao_modelos": "knn11-original_arvore4-f15-d6_rn4-12-1-t01-e800-v1",
+  "sementes_selecao": [
+    42,
+    73,
+    101,
+    21,
+    145,
+    307
+  ],
+  "criterio": "maior F1 macro médio nas 30 partes; conferências e reserva não escolhem a regra"
+}

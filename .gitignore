@@ -1,0 +1,20 @@
+# ambientes e caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# saídas geradas ao executar prever.py
+previsoes*.csv
+
+# material de aula do professor (não redistribuir)
+docs/materiais_aula/
+
+# sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# dados da competição: uso restrito à disciplina, não versionar
+dados/**/*.csv
