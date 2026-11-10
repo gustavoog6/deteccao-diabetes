@@ -6,7 +6,7 @@ Trabalho da disciplina **GBC-212 Mineração de Dados** (UFU), Prof. Murillo G. 
 
 **Modelo final:** voto da maioria entre KNN, árvore de decisão e rede neural, cada um com um submodelo por padrão de exames disponíveis. F1-macro de **0,912** na validação cruzada (só no treino) e **0,89900** no placar público do Kaggle, acima do baseline do professor (0,872).
 
-## Executar (Linux / Fedora)
+## Executar (Linux)
 
 ```bash
 # 1. Python 3 (o Fedora normalmente já vem com ele)
